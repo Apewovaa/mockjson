@@ -31,7 +31,7 @@
 { "post id":"3", "id":3, "name": "sandals", "size": "36", "price": "30000", "colour":"black", "production": "Kazakhstan", "textile": "shoe tent", "brand": "Adidas", "kind": "For kids" },
 { "post id":"4", "id":4, "name": "high-heels", "size": "37", "price": "20000", "colour":"red", "production": "Turkey", "textile": "covercat,", "brand": "Intertop", "kind": "For women" },
 { "post id":"5", "id":5, "name": "boots", "size": "40", "price": "35000", "colour":"blue", "production": "India", "textile": "reps", "brand": "Nike", "kind": "For men" }
-]
+],
  "jeans": [
 { "post id":"1", "id":1, "name": "Regular Fit", "size": "24", "price": "7000", "colour":"black", "production": "Turkey", "textile": "Denim", "brand": "Colin's", "kind": "For women" },
 { "post id":"2", "id":2, "name": "Loose Fit", "size": "26", "price": "10000", "colour":"dark blue", "production": "Japan", "textile": "Serge", "brand": "Evisu", "kind": "For women" },
